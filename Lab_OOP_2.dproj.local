@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.364,C:\Users\win32\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\win32\OneDrive\Документы\Embarcadero\Studio\Projects\main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.692,=C:\Users\win32\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.900,=C:\Users\win32\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.364,C:\Users\win32\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\win32\OneDrive\Документы\Embarcadero\Studio\Projects\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.555,C:\Users\win32\Desktop\lab OOP 2\main.pas=C:\Users\win32\OneDrive\Документы\Embarcadero\Studio\Projects\main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.460,C:\Users\win32\OneDrive\Документы\Embarcadero\Studio\Projects\Lab_OOP_2.dproj=C:\Users\win32\OneDrive\Документы\Embarcadero\Studio\Projects\Lab_OOP_2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.866,C:\Users\win32\Desktop\lab OOP 2\FigureClass.pas=C:\Users\win32\OneDrive\Документы\Embarcadero\Studio\Projects\FigureClass.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.927,C:\Users\win32\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\win32\OneDrive\Документы\Embarcadero\Studio\Projects\Lab_OOP_2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.618,=C:\Users\win32nod32\Desktop\lab OOP 2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.328,=C:\Users\win32\OneDrive\Документы\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.735,C:\Users\win32\OneDrive\Документы\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\win32\OneDrive\Документы\Embarcadero\Studio\Projects\FigureClass.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.059,C:\Users\win32\Desktop\lab OOP 2\Lab_OOP_2.dproj=C:\Users\win32\OneDrive\Документы\Embarcadero\Studio\Projects\Lab_OOP_2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.555,C:\Users\win32\Desktop\lab OOP 2\main.dfm=C:\Users\win32\OneDrive\Документы\Embarcadero\Studio\Projects\main.dfm</Transaction>
+    <Transaction>2018.10.04 02:01:39.934,C:\Users\win32nod32\Desktop\ООП\lab OOP 2\HotkeyInfo.dfm=C:\Users\win32nod32\Desktop\ООП\lab OOP 2\Unit1.dfm</Transaction>
+    <Transaction>2018.10.04 02:01:39.934,C:\Users\win32nod32\Desktop\ООП\lab OOP 2\HotkeyInfo.pas=C:\Users\win32nod32\Desktop\ООП\lab OOP 2\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
